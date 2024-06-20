@@ -1,0 +1,38 @@
+body{
+  margin: 0;
+}
+
+header{
+  height: 200px;
+  background-color: orange;
+  color: rgb(255, 0, 0);
+  text-align: center;
+  padding-top: 50px;
+  font-size: 38px;
+  padding-top: 20px;
+
+  background-image: url(https://files.vgtimes.ru/gallery/thumb/172726/fsb_promo_rust02.jpg);
+}
+
+main{
+  height: 800px;
+  background-color: aqua;
+  padding: 20px;
+}
+
+.left{}
+
+footer{
+  
+}
+
+.social img {
+  width: 100px;
+padding-left: 10px;
+}
+
+.social{
+  list-style: none;
+display: flex;
+justify-content: center;
+}
